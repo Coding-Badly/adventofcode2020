@@ -1,0 +1,8 @@
+[package]
+name = "day02"
+version = "0.1.0"
+authors = ["brian-cook <brian.cook@gremlin.com>"]
+edition = "2018"
+
+[dependencies]
+regex = { version = "1", features = ["unicode-perl"] }
